@@ -1,0 +1,19 @@
+{
+  "name": "entrega-final-curso-de-js-coderhouse",
+  "version": "1.0.0",
+  "description": "proyecto final curdo de js coderhouse",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cudriz/proyecto-final.git"
+  },
+  "author": "carlos cudriz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cudriz/proyecto-final/issues"
+  },
+  "homepage": "https://github.com/cudriz/proyecto-final#readme"
+}
