@@ -217,15 +217,6 @@ function procesarPedido() {
 
    const serviceID = 'default_service';
    const templateID = 'template_qxwi0jn';
-
-   emailjs.sendForm(serviceID, templateID, this)
-    .then(() => {
-      btn.value = 'Finalizar compra';
-      alert('Correo enviado!');
-    }, (err) => {
-      btn.value = 'Finalizar compra';
-      alert(JSON.stringify(err));
-    });
     
    const spinner = document.querySelector('#spinner')
    spinner.classList.add('d-flex')

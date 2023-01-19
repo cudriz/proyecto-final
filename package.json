@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cudriz/proyecto-final/issues"
   },
-  "homepage": "https://github.com/cudriz/proyecto-final#readme"
+  "homepage": "https://github.com/cudriz/proyecto-final#readme",
+  "dependencies": {
+    "sweetalert2": "^11.7.0"
+  }
 }
